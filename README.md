@@ -44,4 +44,4 @@ Modify colors and fonts in style.css to match your branding.
 
 Author
 
-Your Name
+Yogesh RAj
